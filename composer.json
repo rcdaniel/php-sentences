@@ -1,0 +1,13 @@
+{
+    "name": "dzthor/myserver",
+    "description": "Example of server in PHP",
+    "authors": [
+        {
+            "name": "rcdaniel",
+            "email": "danielramirezconcepcion@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.5"
+    }
+}
